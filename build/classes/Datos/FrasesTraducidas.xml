@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Frases>
+  <Frase>
+    <Texto>Hola</Texto>
+    <Traduccion>
+      <Idioma>Aleman</Idioma>
+      <TextoTraducido>Hallo</TextoTraducido>
+    </Traduccion>
+    <Traduccion>
+      <Idioma>Frances</Idioma>
+      <TextoTraducido>Salut</TextoTraducido>
+    </Traduccion>
+    <Traduccion>
+      <Idioma>Ingles</Idioma>
+      <TextoTraducido>Hello</TextoTraducido>
+    </Traduccion>
+    <Traduccion>
+      <Idioma>Ruso</Idioma>
+      <TextoTraducido>привет (privet)</TextoTraducido>
+    </Traduccion>
+  </Frase>
+  <Frase>
+    <Texto>Buenos días</Texto>
+    <Traduccion>
+      <Idioma>Aleman</Idioma>
+      <TextoTraducido>Guten morgen</TextoTraducido>
+    </Traduccion>
+    <Traduccion>
+      <Idioma>Frances</Idioma>
+      <TextoTraducido>Bonjour</TextoTraducido>
+    </Traduccion>
+    <Traduccion>
+      <Idioma>Ingles</Idioma>
+      <TextoTraducido>Good morning</TextoTraducido>
+    </Traduccion>
+    <Traduccion>
+      <Idioma>Ruso</Idioma>
+      <TextoTraducido>Доброе утро (Dobroye utro)</TextoTraducido>
+    </Traduccion>
+  </Frase>
+  <Frase>
+    <Texto>Buenas Tardes</Texto>
+    <Traduccion>
+      <Idioma>Aleman</Idioma>
+      <TextoTraducido>Guten nachmittag</TextoTraducido>
+    </Traduccion>
+    <Traduccion>
+      <Idioma>Frances</Idioma>
+      <TextoTraducido>Bonsoir</TextoTraducido>
+    </Traduccion>
+    <Traduccion>
+      <Idioma>Ingles</Idioma>
+      <TextoTraducido>Good afternoon</TextoTraducido>
+    </Traduccion>
+    <Traduccion>
+      <Idioma>Ruso</Idioma>
+      <TextoTraducido>Добрый день (Dobryy den')</TextoTraducido>
+    </Traduccion>
+  </Frase>
+  <Frase>
+    <Texto>Buenas Noches</Texto>
+    <Traduccion>
+      <Idioma>Aleman</Idioma>
+      <TextoTraducido>Gute nacht</TextoTraducido>
+    </Traduccion>
+    <Traduccion>
+      <Idioma>Frances</Idioma>
+      <TextoTraducido>Bonne nuit</TextoTraducido>
+    </Traduccion>
+    <Traduccion>
+      <Idioma>Ingles</Idioma>
+      <TextoTraducido>Good evening</TextoTraducido>
+    </Traduccion>
+    <Traduccion>
+      <Idioma>Ruso</Idioma>
+      <TextoTraducido>Спокойной ночи (Spokoynoy nochi)</TextoTraducido>
+    </Traduccion>
+  </Frase>
+  <Frase>
+    <Texto>Cómo estas?</Texto>
+    <Traduccion>
+      <Idioma>Aleman</Idioma>
+      <TextoTraducido>Wie geht es dir</TextoTraducido>
+    </Traduccion>
+    <Traduccion>
+      <Idioma>Frances</Idioma>
+      <TextoTraducido>Comment est il vous?</TextoTraducido>
+    </Traduccion>
+    <Traduccion>
+      <Idioma>Ingles</Idioma>
+      <TextoTraducido>How are you?</TextoTraducido>
+    </Traduccion>
+    <Traduccion>
+      <Idioma>Ruso</Idioma>
+      <TextoTraducido>Как ты (Kak ty)</TextoTraducido>
+    </Traduccion>
+  </Frase>
+  <Frase>
+    <Texto>Cómo te llamas?</Texto>
+    <Traduccion>
+      <Idioma>Aleman</Idioma>
+      <TextoTraducido>Wie heißt du?</TextoTraducido>
+    </Traduccion>
+    <Traduccion>
+      <Idioma>Frances</Idioma>
+      <TextoTraducido>Comment tu t'apelles?</TextoTraducido>
+    </Traduccion>
+    <Traduccion>
+      <Idioma>Ingles</Idioma>
+      <TextoTraducido>What is your name?</TextoTraducido>
+    </Traduccion>
+    <Traduccion>
+      <Idioma>Ruso</Idioma>
+      <TextoTraducido>(Как тебя зовут (Kak tebya zovut)</TextoTraducido>
+    </Traduccion>
+  </Frase>
+  <Frase>
+    <Texto>De dónde vienes?</Texto>
+    <Traduccion>
+      <Idioma>Aleman</Idioma>
+      <TextoTraducido>Wo kommst du her</TextoTraducido>
+    </Traduccion>
+    <Traduccion>
+      <Idioma>Frances</Idioma>
+      <TextoTraducido>D'où viens-tu?</TextoTraducido>
+    </Traduccion>
+    <Traduccion>
+      <Idioma>Ingles</Idioma>
+      <TextoTraducido>Where you come from?</TextoTraducido>
+    </Traduccion>
+    <Traduccion>
+      <Idioma>Ruso</Idioma>
+      <TextoTraducido>Откуда ты родом? (Otkuda ty rodom?)</TextoTraducido>
+    </Traduccion>
+  </Frase>
+</Frases>
